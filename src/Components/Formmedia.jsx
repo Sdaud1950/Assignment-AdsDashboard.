@@ -66,7 +66,7 @@ const Formmedia = () => {
                 <div className="Lansccape22">
                 <div className="Landscape-img">
                   <div className="col">
-                    <label>Landscape Marketing Image (1.9.1)</label>
+                    <label>Landscape Marketing Imagesss (1.9.1)</label>
                     <input
                       type="text"
                       placeholder="Add the URL of Image you want to use for the ad"

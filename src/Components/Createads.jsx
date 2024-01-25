@@ -5,8 +5,8 @@ import Mediaad from './Mediaad'
 const Createads = () => {
   return (
     <div className='Main-ads'>
-      <Textad/>
-      <Mediaad/>
+      {/* <Textad/>
+      <Mediaad/> */}
       <button className='Next-btn'>Next</button>
     </div>
   )

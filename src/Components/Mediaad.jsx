@@ -3,6 +3,7 @@ import Skeleton from "@mui/material/Skeleton";
 import Stack from "@mui/material/Stack";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import CheckIcon from '@mui/icons-material/Check';
 
 const Mediaad = () => {
   const [isChecked1, setIsChecked1] = useState(false);
